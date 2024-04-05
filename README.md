@@ -1,4 +1,5 @@
 Car Owner App
+
 Welcome to the repository for the Car Owner App, a powerful platform that enables car owners to list their vehicles worldwide and manage bookings seamlessly.
 
 Features:
@@ -7,7 +8,7 @@ Global Car Listing: Owners can easily list their cars from anywhere in the world
 
 Booking Management: Owners have the ability to approve or disapprove booking requests, ensuring control over rental arrangements.
 
-Car Listing Management: The app allows owners to view and manage all listed cars in one place, providing an organized overview of their rental fleet.
+Car Listing Management: The app allows owners to view all listed cars in one place, providing an organized overview of their rental fleet.
 
 Technologies Used:
 
