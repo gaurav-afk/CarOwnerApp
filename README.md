@@ -16,32 +16,18 @@ Frontend: React Native
 Backend & Database: Firebase (Firestore, Authentication)
 Project Structure:
 
-src/: Contains the source code for the React Native frontend.
-firebase/: Includes Firebase configuration files for setting up Firestore and Authentication.
 Getting Started:
 
 To run the Car Owner App locally:
 
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/car-owner-app.git
-Navigate to the project directory:
+Install dependencies: npm install
 
-bash
-Copy code
-cd car-owner-app
-Install dependencies:
 
-Copy code
-npm install
 Set up Firebase:
 
 Create a Firebase project and enable Firestore and Authentication.
-Replace the Firebase configuration in firebase/firebaseConfig.js with your own Firebase project credentials.
-Start the app:
+Create a file named firebaseConfig.js and paste the Firebase configuration with your own Firebase project credentials.
 
-sql
-Copy code
-npm start
+Start the app: npm start
