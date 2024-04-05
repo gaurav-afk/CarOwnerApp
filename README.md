@@ -1,4 +1,4 @@
-<span style="font-size:4em;">GitHub Repository: Car Owner App</span>
+Car Owner App
 Welcome to the repository for the Car Owner App, a powerful platform that enables car owners to list their vehicles worldwide and manage bookings seamlessly.
 
 Features:
