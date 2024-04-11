@@ -32,7 +32,7 @@ Create a file named firebaseConfig.js and paste the Firebase configuration with 
 
 Start the app: npm start
 
-![Simulator Screenshot - iPhone 15 - 2024-04-11 at 01 05 37](https://github.com/gaurav-afk/CarOwnerApp/assets/65609530/9fb0380a-2fa5-4695-adda-05ed09141fb6)
+<img src="https://github.com/gaurav-afk/CarOwnerApp/assets/65609530/9fb0380a-2fa5-4695-adda-05ed09141fb6" width="250" height="550">
 ![Simulator Screenshot - iPhone 15 - 2024-04-11 at 01 05 32](https://github.com/gaurav-afk/CarOwnerApp/assets/65609530/413fcbed-f942-4725-9407-4129ed77ccda)
 ![Simulator Screenshot - iPhone 15 - 2024-04-11 at 01 05 14](https://github.com/gaurav-afk/CarOwnerApp/assets/65609530/2ac7ee9a-d541-4f9d-8729-1c16af400da5)
 ![Simulator Screenshot - iPhone 15 - 2024-04-11 at 01 04 55](https://github.com/gaurav-afk/CarOwnerApp/assets/65609530/dd22bc57-01c3-4df8-810a-7583260f1c8b)
