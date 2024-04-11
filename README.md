@@ -34,9 +34,9 @@ Start the app: npm start
 
 <img src="https://github.com/gaurav-afk/CarOwnerApp/assets/65609530/4510a1dc-1bea-454a-97af-9b82bc3c0b6f" width="250" height="550">
 <img src="https://github.com/gaurav-afk/CarOwnerApp/assets/65609530/402dbbbf-50f3-4de1-a2b7-b6f0543c0c99" width="250" height="550">
+<img src="https://github.com/gaurav-afk/CarOwnerApp/assets/65609530/dd22bc57-01c3-4df8-810a-7583260f1c8b" width="250" height="550">
 <img src="https://github.com/gaurav-afk/CarOwnerApp/assets/65609530/413fcbed-f942-4725-9407-4129ed77ccda" width="250" height="550">
 <img src="https://github.com/gaurav-afk/CarOwnerApp/assets/65609530/9fb0380a-2fa5-4695-adda-05ed09141fb6" width="250" height="550">
-<img src="https://github.com/gaurav-afk/CarOwnerApp/assets/65609530/dd22bc57-01c3-4df8-810a-7583260f1c8b" width="250" height="550">
 <img src="https://github.com/gaurav-afk/CarOwnerApp/assets/65609530/2ac7ee9a-d541-4f9d-8729-1c16af400da5" width="250" height="550">
 <img src="https://github.com/gaurav-afk/CarOwnerApp/assets/65609530/a43418da-2783-492f-8deb-edf49698e758" width="250" height="550">
 
